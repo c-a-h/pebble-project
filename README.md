@@ -1,2 +1,3 @@
 # pebble-project
 An undefined placeholder to implement a pebble app
+it now appears there is no reason to implement a pebble app, due to the recent purchase by fitbit.  Procrastination for the win! Now on to figure out some other side project to work on...
